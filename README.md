@@ -27,9 +27,9 @@ To use the weather app, follow these steps:
 
 To run this project locally, you will need:
 
-    Clone this repository:
+Clone this repository:
 
-git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/your-username/weather-app.git
 
 Navigate into the project directory:
 
@@ -56,6 +56,6 @@ Replace 'your-api-key' with your actual API key obtained from api.openweathermap
 
 # Acknowledgments
 
-    This project makes use of the api.openweathermap.org API to retrieve real-time weather data.
+This project makes use of the api.openweathermap.org API to retrieve real-time weather data.
 
 Feel free to reach out if you have any questions or feedback about this project
