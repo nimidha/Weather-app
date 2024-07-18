@@ -29,11 +29,11 @@ To run this project locally, you will need:
 
     Clone this repository:
 
-_git clone https://github.com/your-username/weather-app.git_
+git clone https://github.com/your-username/weather-app.git
 
 Navigate into the project directory:
 
-    _cd weather-app_
+    cd weather-app
 
 Open the .html file in web-browser
 
