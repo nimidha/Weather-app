@@ -33,7 +33,7 @@ Clone this repository:
 
 Navigate into the project directory:
 
-    cd weather-app
+   ```cd weather-app```
 
 Open the .html file in web-browser
 
