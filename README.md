@@ -29,7 +29,7 @@ To run this project locally, you will need:
 
 Clone this repository:
 
-   git clone https://github.com/your-username/weather-app.git
+   ```git clone https://github.com/your-username/weather-app.git```
 
 Navigate into the project directory:
 
