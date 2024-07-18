@@ -1,0 +1,104 @@
+body{
+ margin: 10px;
+ align-items: center;
+background-color: hsla(34, 56%, 81%, 0.831);
+
+ width: 100%;
+ display: flex;
+ flex-direction: column;
+
+ 
+}
+
+.inputtext{
+    border: 2px solid rgba(186, 144, 89, 0.904);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: antiquewhite;
+    color: hsla(0, 0%, 0%, 0.749);
+    border-radius: 5px;
+}
+
+button{
+    border: 2px solid hsla(120, 100%, 25%, 0.811);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsla(120, 100%, 25%, 0.639);
+    color: rgb(247, 249, 250);
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px black;
+}
+button:hover{
+    background-color: hsla(120, 100%, 25%, 0.541);
+}
+button:active{
+    background-color: hsla(120, 100%, 25%, 0.817);
+}
+
+.weathercard{
+    background: linear-gradient(180deg,rgba(153, 190, 232, 0.717),rgb(158, 223, 158));
+    /* background: linear-gradient(180deg,rgba(91, 159, 236, 0.801),rgba(134, 196, 134, 0.975)); */
+    display: flex;
+    flex-direction: column;
+     /* margin-left: 0px;
+    margin-right: 50;
+    margin-top: 20px;  */
+   align-items: center;
+  margin: 10px;
+  box-shadow: 2px 2px 5px black;
+   border-radius: 5px;
+   width: 250px;
+
+   
+}
+.cityname{
+    color: hsla(0, 0%, 1%, 0.76);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.temperature{
+    color: hsla(0, 0%, 1%, 0.76);
+    font-size: 2rem;
+    font-weight: bold;
+     margin-top: 0.25rem;
+
+}
+.humidity{
+    color: hsla(0, 0%, 1%, 0.76);
+    font-size: 1rem;
+    font-weight: bold;
+     margin-top: 0.25rem;
+
+}
+.weather{
+    color: hsla(0, 0%, 1%, 0.76);
+    font-size: 1.5rem;
+    font-weight: bold;
+     margin-top: 0.25rem;
+     margin-bottom: 0.25rem;
+
+}
+
+.symbol{
+    margin-top: 0.1rem;
+    margin-bottom: 0.25rem;
+    font-size: 100px
+    
+}
+.error{
+    color: hsla(0, 0%, 1%, 0.76);
+    font-size: 1.5rem;
+    font-weight: bold;
+     /* margin-top: 0.25rem; */
+     padding: 2px;
+     
+}
+
+
+
+
